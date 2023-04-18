@@ -1,5 +1,5 @@
 {
-  "name": "Violet improved",
+  "name": "Violet",
   "description": "Violet, and dark.",
   "version": "1.2",
   "authors": [
@@ -149,7 +149,7 @@
   },
   "background": {
     "blur": 0.5,
-    "url": "https://cdn.discordapp.com/attachments/682458025306620049/1097957045761745086/purple.png",
+    "url": "https://media.discordapp.net/attachments/682458025306620049/1097957045761745086/purple.png",
     "alpha": 1.0
   }
 }
